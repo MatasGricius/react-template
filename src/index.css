@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.onSale {
+    @apply bg-green-500;
+}
+
+.soldOut {
+    @apply bg-red-500;
+}
